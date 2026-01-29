@@ -59,7 +59,7 @@ The widget sends these messages back to Patchies:
 
 ### Prerequisites
 
-- Node.js 22+ (managed via mise)
+- Node.js 24+ (managed via mise)
 - pnpm 10+
 
 ### Setup
