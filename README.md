@@ -4,13 +4,7 @@ A collection of custom widgets for [Patchies](https://github.com/heypoom/patchie
 
 ## What is Patchies?
 
-[Patchies](https://github.com/heypoom/patchies) is a creative coding patcher for audio-visual things that runs on the web. Connect tools and libraries you know and try out new ones ✨
-
-Patchies is designed to mix textual coding and visual patching, using the best of both worlds. Instead of writing long chunks of code or patching together a huge web of small objects, Patchies encourages you to write small and compact programs and patch 'em together.
-
-If you haven't used a patching environment before, patching is a visual way to program by connecting objects together. Each object does something e.g. generate sound, generate visual, compute some values. You connect the output of one object to the input of another object to create a flow of data.
-
-This lets you visually see the program's core composition and its in-between results such as audio, video and message flows, while using tools you're already familiar with that lets you do a lot with a bit of code. This is done through Message Passing, Video Chaining and Audio Chaining. They're heavily inspired by tools like Max, Pd, TouchDesigner and VVVV.
+[Patchies](https://github.com/heypoom/patchies) is a visual patching tool for creative coding on the web. Mix small programs with visual connections to create audio-visual experiences, similar to Max/PD/TouchDesigner. Connect tools you know through message passing, video, and audio chains.
 
 ## What is Patchies Goodies?
 
