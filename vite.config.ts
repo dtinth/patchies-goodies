@@ -15,16 +15,13 @@ export default defineConfig({
       projects: ['./tsconfig.json'],
     }),
     tanstackStart({
-      spa: {
-        enabled: true,
-        prerender: {
-          crawlLinks: true,
-        },
-      },
       sitemap: {
         host: 'https://github.com',
       },
       prerender: {
+        enabled: true,
+        autoSubfolderIndex: true,
+        crawlLinks: true,
         failOnError: false,
       },
     }),
