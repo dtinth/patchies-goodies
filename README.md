@@ -17,7 +17,7 @@ Each widget is a self-contained route that can be embedded as an iframe in Patch
 ### YouTube Player
 
 **Route:** `/youtube`  
-**URL:** `https://<your-github-username>.github.io/patchies-goodies/youtube`
+**URL:** `https://dtinth.github.io/patchies-goodies/youtube`
 
 A YouTube video player widget that can be controlled via postMessage. Perfect for integrating video playback into your patches.
 
