@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_GitHub_MCP_Repositories__get_file_contents"
+    ]
+  }
+}
